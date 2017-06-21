@@ -5,7 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+<<<<<<< HEAD
     "start": "node server.js"
+=======
+	"start": "node server.js"
+>>>>>>> 5d630cdb6c53f6368a6cc7193bee08a886f2362e
   },
   "author": "",
   "license": "ISC",
